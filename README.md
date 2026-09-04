@@ -5,7 +5,7 @@
 - Directx 9,11
 - C++
 
-## IRA - 2.5D 팀 프로젝트 맵
+## IRA - 2.5D 팀 프로젝트
 - 개발 기간 : 2026.02.05 ~ 2026.03.09
 > 쿼터뷰 형식의 로그라이크 탄막 게임
 -GitHub : https://github.com/lcjune816/2.5D-SR-TeamProject
